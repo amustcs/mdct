@@ -1,0 +1,3 @@
+[submodule "mdct/stft"]
+	path = mdct/stft
+	url = git@github.com:amustcs/stft.git
